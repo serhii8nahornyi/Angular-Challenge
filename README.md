@@ -25,7 +25,7 @@ I am going to provide you a continuously intensive learning experience which not
   - this tool is not required but too awesome not to use it (from my experience). Whenever I start with a new project I do create it via NX workspace
   - [more detailed about it on the official website: https://nx.dev](https://nx.dev)
 
-## A bit about me
+## About myself
 - 👨‍🎓 Master Degree in Computer Technologies (hardware and software)
 - ❤️ I am in love with creating new things
 - 📍 from 🇺🇦
