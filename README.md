@@ -21,7 +21,7 @@ I am going to provide you a continuously intensive learning experience which not
 - any laptop
 - NodeJS version 16 and higher
 - NX workspace
-  - that's awesome manager which contains and collects everything what we are going to use during web application developing.
+  - that's awesome mono repository tool which contains and collects everything what we are going to use during web application developing.
   - this tool is not required but too awesome not to use it (from my experience). Whenever I start with a new project I do create it via NX workspace
   - [more detailed about it on the official website: https://nx.dev](https://nx.dev)
 
