@@ -1,6 +1,6 @@
 # Day 1: PREPARE THE WORKING ENVIRONMENT
 
-## Code tool   
+## CODE TOOLS  
 there are tons of different text editors, IDE's, console which could be used.   
 **I am going to use Intellij Idea**. Feel free having something different:
 - Visual Studio
@@ -108,6 +108,22 @@ You can run this command now and open `http://localhost:4200` after the terminal
 npx nx serve app1
 ```
 
-## Congratulations! You successfully have run your first Angular application within Nx workspace 😊
+### Congratulations! You successfully have run your first Angular application within Nx workspace 😊
 ![](assets/first_run.png)
 
+By default, the app runs at port 4200. You can change which port to run the app by using command:
+```bash
+ng serve --port=other-port-number
+```
+For instance: `ng serve --port=9000`
+
+The working application is served at the address `http://localhost:4200/`, which can be viewed in your browser.
+
+✅ 1st tutorial is done!   
+👋 See you in the 2nd one. 
+
+## HASHTAGS
+`angular` `nx` `nx workspace` `frontend` `challenge` `guide` `tutorial`
+
+# AUTHOR
+`Serhii Nahornyi`
