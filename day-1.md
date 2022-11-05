@@ -108,6 +108,6 @@ You can run this command now and open `http://localhost:4200` after the terminal
 npx nx serve app1
 ```
 
-## Congratulations! You successfully have run your first application 😊
+## Congratulations! You successfully have run your first Angular application within Nx workspace 😊
 ![](assets/first_run.png)
 
