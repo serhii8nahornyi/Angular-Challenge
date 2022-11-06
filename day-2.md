@@ -84,7 +84,7 @@ We have included variables from our component to our view. That's much comfortab
 ### APP.MODULE.TS - OUR MODULE CONFIGURATIONS
 > `app.component.html` and `app.component.ts` can not be found by Angular if they are not included in a `module.ts` file   
 
-Here is `module.ts` structure:
+>Here is `module.ts` structure:
 ```typescript
 import { NgModule } from '@angular/core';                       //needed imporst for Angular
 import { BrowserModule } from '@angular/platform-browser';      //needed imporst for Angular
