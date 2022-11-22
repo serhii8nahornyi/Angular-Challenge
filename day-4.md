@@ -109,7 +109,7 @@ Let's create a new array variable with `user` object inside and display it.
 <img src="assets/day4_05.png" style="width:500px;height:700px">
 <img src="assets/day4_06.png" style="width:500px;height:700px">
 
-✅ Great! You have learned one more topic about Angular and 4rd tutorial is done!   
+✅ Great! You have learned one more topic about Angular and 4th tutorial is done!   
 👋 See you in the 5th one.
 
 ## SOURCES
