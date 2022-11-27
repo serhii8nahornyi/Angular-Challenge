@@ -1,4 +1,4 @@
-# Day 6: COMPONENT - PASS DATA FROM PARENT TO CHILD WITH INPUT BINDING
+# Day 7: COMPONENT - PASS DATA FROM PARENT TO CHILD WITH INPUT BINDING
 
 We have generated a new component in a previous [6th tutorial](day-1.md). Let's add it to our main application.      
 
@@ -46,7 +46,38 @@ Add **Bar selector** to `app.component.html`
 <challengular-bar></challengular-bar>
 ```
 
-You should get a new string in your application **bar works!** if everything was set up correctly.
+You should get a new string in your application **bar works!** if everything was set up correctly.   
+
+Let's change our **bar.component.ts** like I did below:
+
+```typescript
+import {Component, Input, OnInit} from '@angular/core';
+@Component({
+    selector: 'challengular-bar',
+    template: '<div [style.backgroundColor]="backgroundColor">\n' +
+            '  <p [style.color]="textColor">Bar colors</p>\n' +
+            '</div>\n',
+    styleUrls: ['./bar.component.scss'],
+})
+export class BarComponent implements OnInit {
+    @Input() backgroundColor: string | undefined;
+    @Input() textColor: string | undefined;
+    constructor() {}
+    ngOnInit(): void {}
+}
+```
+
+Add these lines of code to `app.component.html`
+```html
+<challengular-bar
+    [backgroundColor]="'#9e9e9e'"
+    [textColor]="'#2e8b57'"
+></challengular-bar>
+```
+
+This is a result that we should get:   
+![](assets/day7_01.png)   
+
 
 ## CONSTRUCTOR() VS NGONINIT()
 - **Constructor** is the constructor of a class, it is a special function that when you instantiate an instance of the class, it will be automatically run, and only run once.    
