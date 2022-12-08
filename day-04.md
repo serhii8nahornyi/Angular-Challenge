@@ -12,7 +12,7 @@ Let's check what exactly Angular says:
 >Short form: it does something with "if" condition. E.g. a button will be shown if user is logged in.   
 >When "NgIf" is false, Angular removes an element and its descendants from the DOM. Angular then disposes of their components, which frees up memory and resources.
 
-Let's reuse our color selection which we have added in the [previous 3rd tutorial](day-3.md).   
+Let's reuse our color selection which we have added in the [previous 3rd tutorial](day-03.md).   
 I want to see `SUCCESS` as text when color will be `green(#008000)` or `ERROR` if it is `red(#ff0000)`.   
 >`app.component.html`
 >```html

@@ -55,7 +55,7 @@ export class ClientModule {}
 ## @ViewChild USAGE
 
 Let's say we have a **Child** component(`toggle.component.ts`) which has some or one parameter(**checked**) to be passed. Here we are going to make a communication between via **@ChildView**.   
-The **Child** component won't have anything new for us from the previous [8th tutorial](day-8.md).
+The **Child** component won't have anything new for us from the previous [8th tutorial](day-08.md).
 > `toggle.component.ts`
 >```typescript
 >import {Component, EventEmitter, Input, OnInit, Output} from '@angular/core';

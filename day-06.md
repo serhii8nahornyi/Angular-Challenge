@@ -1,6 +1,6 @@
 # Day 6: COMPONENTS GENERATION
 
-We have been working with **Angular** inside **NX Workspace** from [1st tutorial](day-1.md).   
+We have been working with **Angular** inside **NX Workspace** from [1st tutorial](day-01.md).   
 Therefore, I will show you options of component generating for **Angular** as well as using **NX Workspace**.    
 
 We are going to prepare a component for the next tutorials. You can select an option for you depends on if you are using **NX Workspace** or not.

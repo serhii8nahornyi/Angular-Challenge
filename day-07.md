@@ -1,6 +1,6 @@
 # Day 7: COMPONENT - PASS DATA FROM PARENT TO CHILD WITH INPUT BINDING
 
-We have generated a new component in a previous [6th tutorial](day-1.md). Let's add it to our main application.      
+We have generated a new component in a previous [6th tutorial](day-01.md). Let's add it to our main application.      
 
 We need only selector name which is inside `bar.component.ts`:
 ```typescript

@@ -1,7 +1,7 @@
 # Day 3: ANGULAR BINDINGS
 
 ## BINDINGS
-We have tried some bindings in [the 2nd day](day-2.md) of our challenge when we added `content` variable to `app.component.ts` and displayed it in `app.component.html` via `{{ content }}`.
+We have tried some bindings in [the 2nd day](day-02.md) of our challenge when we added `content` variable to `app.component.ts` and displayed it in `app.component.html` via `{{ content }}`.
 
 That is called **Angular bindings** in a short form.
 

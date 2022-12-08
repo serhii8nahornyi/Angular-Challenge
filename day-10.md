@@ -1,6 +1,6 @@
 # Day 10: NG-TEMPLATE & NG-CONTAINER?
 ## NG-TEMPLATE
-You have already seen a part of a code in [4th tutorial](day-4.md). We didn't go deep into details and the time has come now 😁   
+You have already seen a part of a code in [4th tutorial](day-04.md). We didn't go deep into details and the time has come now 😁   
 (always wanted to say this phrase lol)
 
 We were using `*ngIf` directive with `<ng-template>` selector. Otherwise, it wouldn't work for our logic.   
