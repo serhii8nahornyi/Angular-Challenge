@@ -30,7 +30,7 @@ I am going to provide you a continuously intensive learning experience which not
 - ❤️ I am in love with creating new things
 - 📍 from 🇺🇦
 - ➕ 5+ years in Java development
-- ➕ 3+ years with Javascript, Typescript
+- ➕ 5+ years with Javascript, Typescript
 - 🚙 My roadmap: student -> creating world competitive projects -> junior backend -> junior fullstack -> senior fullstack -> team lead  
 
 ## I wish you an interesting journey, learning new things and amazing growth as frontend developer
