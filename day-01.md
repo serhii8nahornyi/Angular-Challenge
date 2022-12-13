@@ -30,11 +30,7 @@ From my machine:
 For development of an Angular project, Angular CLI is an essential utility to manage the project from terminal environment. One way to install Angular CLI is to use NPM CLI by running this command line in yours terminal:   
 ```bash
 npm install -g @angular/cli@latest
-```   
-To check Angular CLI:   
-```bash
-ng --version
-```   
+```    
 
 ## PROJECT INITIALIZATION
 As soon as you are done with the previous steps, run this command to initialize a new Angular application with NX workspace:   
